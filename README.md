@@ -1,5 +1,5 @@
 # Yoga Poses (Deep_learning_model)
-![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://user-images.githubusercontent.com/90618007/143417503-01c41267-6ede-4940-9300-b3059ac58911.jpg)
+![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://www.kaggle.com/elysian01/yoga-pose-classification)
 
 ## Introduction:
 
@@ -11,7 +11,9 @@ In this project we have a collection of unordered pictures of yoga poses, and ou
 ## Data Description:
 
 The dataset we selected is from Keggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset).
-Which contains 107 columns and about 6000 pictures.
+Which contains 5 Classes Tree Pose
+Warrior1 Pose
+Downward Dog Pose and about 6000 pictures.
 
 ## Tools:
 
