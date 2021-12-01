@@ -14,12 +14,11 @@ The datasets we selected are:
 
 - from Keggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset),the whole dataset.
 
-- from the website [**New Dataset for Yoga Pose Classification**](https://laurencemoroney.com/2021/08/23/yogapose-dataset.html),200 pictures for eash poses.
+- from the website [**New Dataset for Yoga Pose Classification**](https://laurencemoroney.com/2021/08/23/yogapose-dataset.html),200 pictures for each poses.
 
 - from kaggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset),around 100 pictures for eash poses.
-Which contains 5 Classes Tree Pose
-Warrior1 Pose
-Downward Dog Pose and about 3478 pictures.
+
+Which contains 5 Classes: (Tree Pose,Warrior1 Pose,Downward Dog Pose, Mountain Pose, Goddess Pose) and about 3478 pictures.
 
 ## Tools:
 
