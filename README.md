@@ -1,5 +1,5 @@
 # Yoga Poses (Deep_learning_model)
-![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://www.kaggle.com/elysian01/yoga-pose-classification)
+![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://user-images.githubusercontent.com/90618007/144228467-eea2ba72-0718-4785-8d7d-269b85d31700.jpg)
 
 ## Introduction:
 
